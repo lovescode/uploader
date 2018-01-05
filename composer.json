@@ -1,5 +1,5 @@
 {
-    "name": "mjohnson/uploader",
+    "name": "lovescode/uploader",
     "type": "cakephp-plugin",
     "description": "File uploader and validation plugin for CakePHP.",
     "keywords": ["cakephp", "uploader", "plugin", "file", "validation", "attachment"],
